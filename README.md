@@ -1,6 +1,3 @@
-# Collaborative-Transport-With-Model-Predictive-Control
-Decentralized MPC-based formation control for collaborative warehouse transport using four differential-drive robots. Compares single-leader and dual-leader strategies in simulation, analyzing path tracking, formation stability, and performance across straight, curved, and turning trajectories.
-
 # Collaborative Transport Using Warehouse Robots with MPC
 
 This project explores **formation control for collaborative warehouse transport** using a team of four autonomous differential-drive robots. Each robot is modeled with unicycle kinematics and controlled via **decentralized Model Predictive Control (MPC)**. The goal is to maintain a square formation while tracking predefined paths, enabling cooperative transport of larger payloads across warehouse environments.
